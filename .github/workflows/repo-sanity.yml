@@ -1,0 +1,32 @@
+name: Repo sanity checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  sanity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify required files exist
+        run: |
+          test -f AGENTS.md
+          test -f miRNA-qPCR-reanalysis.md
+          test -f miRNA-qPCR-analysis-results.csv
+          test -f .github/agents/mirna-reanalysis-coordinator.agent.md
+          test -f .github/prompts/mirna-reanalysis-orchestrated.prompt.md
+
+      - name: Validate YAML workflow syntax
+        run: |
+          python -m pip install --quiet pyyaml
+          python - <<'PY'
+          import yaml
+          from pathlib import Path
+          for wf in Path('.github/workflows').glob('*.yml'):
+              yaml.safe_load(wf.read_text())
+          print('Workflow YAML parse: OK')
+          PY
