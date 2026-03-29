@@ -1,0 +1,9 @@
+Artifact,Exists_now,Path
+taskwise_inferential_tests.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/taskwise_inferential_tests.csv
+task_model_performance_nestedcv.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/task_model_performance_nestedcv.csv
+results_registry.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/results_registry.csv
+completion_map.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/completion_map.csv
+multiplicity_family_registry.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/multiplicity_family_registry.csv
+taskwise_assumption_effects_ci.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/taskwise_assumption_effects_ci.csv
+clinical_adjusted_ols_diagnostics.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/clinical_adjusted_ols_diagnostics.csv
+missingness_listwise_impact.csv,True,/Users/centaurioun/Repos/miRNA-analysis/outputs/missingness_listwise_impact.csv

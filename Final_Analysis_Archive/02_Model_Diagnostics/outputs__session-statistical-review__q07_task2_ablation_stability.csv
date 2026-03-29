@@ -1,0 +1,5 @@
+ablation,median_delta_auc,mean_delta_auc,positive_fraction,most_harmful_fraction
+AGE,0.11111111111111116,0.10555555555555557,0.75,0.96
+SEX,0.0,-0.0013580246913580296,0.01,0.0
+mean_GAPDH,0.0,0.005308641975308645,0.3,0.04
+proxy_family,0.0,-0.0014814814814814857,0.0,0.0

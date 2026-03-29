@@ -1,0 +1,4 @@
+Assumption_ID,Assumption,Why needed,Evidence,Risk if wrong,Affected sections
+A1,The raw CSV is the source of truth for this reproduction notebook.,All adjudication evidence is recomputed from this file inside this notebook.,DATA_PATH exists and is loaded in Section q01+.,Would invalidate all reproduced evidence.,All sections
+A2,Requested global Ct variables are approximated by explicit proxies.,Raw CSV lacks original named variables `global_mean_ct_all7` and `global_mean_ct_miRNA_only`.,Transformation registry maps required names to proxy columns and formulas.,Could alter interpretation of structure controls.,q01-q09
+A3,Nested CV with in-fold tuning is used for leakage-safe internal discrimination summaries.,Classification claims must avoid optimistic in-sample bias.,Code uses nested outer/inner CV and OOF predictions.,Could overstate discrimination if violated.,q03/q05/q06

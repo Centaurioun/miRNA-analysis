@@ -30,6 +30,8 @@ Fixed pairwise tasks:
 - `.github/workflows/repo-sanity.yml` — basic required-file and workflow checks.
 - `.github/ISSUE_TEMPLATE/` — bug + feature issue templates.
 - `.github/PULL_REQUEST_TEMPLATE.md` — PR checklist aligned to workflow constraints.
+- `Final_Analysis_Archive/` — curated archive of the final results and supporting artifacts.
+- `Legacy_Results_Archive/` — frozen snapshot of the original messy results and source folders.
 - `miRNA_qpcr_reanalysis.ipynb` — notebook scaffold (starter).
 - `outputs/` — location for saved tables/figures.
 
@@ -57,3 +59,9 @@ Before opening a PR, make sure:
 - Notebook logic remains reproducible from a clean runtime.
 - Major outputs are saved to `outputs/`.
 - Interpretation language is evidence-calibrated (robust vs fragile claims).
+
+## Archives
+
+- Use `Final_Analysis_Archive/` for organized review, reporting, and traceability.
+- Use `Legacy_Results_Archive/` only for historical comparison against the original messy layout.
+- Keep `outputs/` as the live working directory, then curate new results into `Final_Analysis_Archive/` and clean `outputs/` afterward.

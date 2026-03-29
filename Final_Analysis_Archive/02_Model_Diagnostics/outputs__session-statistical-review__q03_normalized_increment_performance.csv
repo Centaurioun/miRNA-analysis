@@ -1,0 +1,7 @@
+task,model_name,n_features,features,auc,accuracy,sensitivity,specificity,ppv,f1,tn,tp,fn,fp
+Task2_G_vs_P,structure_only,3,mean_GAPDH+global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,0.962962962962963,0.9166666666666666,0.9722222222222222,0.8611111111111112,0.875,0.9210526315789473,31,35,1,5
+Task2_G_vs_P,biomarker_only,6,abd_mir146a+abd_mir146b+abd_mir155+abd_mir203+abd_mir223+abd_mir381p,0.7947530864197532,0.8472222222222222,0.8611111111111112,0.8333333333333334,0.8378378378378378,0.8493150684931506,30,31,5,6
+Task2_G_vs_P,biomarker_plus_structure,9,abd_mir146a+abd_mir146b+abd_mir155+abd_mir203+abd_mir223+abd_mir381p+mean_GAPDH+global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,0.9043209876543209,0.9166666666666666,0.9444444444444444,0.8888888888888888,0.8947368421052632,0.918918918918919,32,34,2,4
+Task3_S_vs_P,structure_only,3,mean_GAPDH+global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,1.0,1.0,1.0,1.0,1.0,1.0,36,36,0,0
+Task3_S_vs_P,biomarker_only,6,abd_mir146a+abd_mir146b+abd_mir155+abd_mir203+abd_mir223+abd_mir381p,0.9953703703703705,0.9722222222222222,0.9444444444444444,1.0,1.0,0.9714285714285714,36,34,2,0
+Task3_S_vs_P,biomarker_plus_structure,9,abd_mir146a+abd_mir146b+abd_mir155+abd_mir203+abd_mir223+abd_mir381p+mean_GAPDH+global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,1.0,1.0,1.0,1.0,1.0,1.0,36,36,0,0

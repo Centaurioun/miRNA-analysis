@@ -1,0 +1,13 @@
+Task,Model_Family,Model_Label,AUC_oof_boot_median,AUC_oof_boot_ci95_low,AUC_oof_boot_ci95_high,Boot_n,Interpretation
+Task1_S_vs_G,single_marker_prespecified,abd_mir155,0.7592523795648796,0.6501888020833333,0.8702099736348962,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task1_S_vs_G,demographic_only,AGE+SEX,0.6271815559741256,0.49440972222222224,0.7531817336309524,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task1_S_vs_G,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,0.5982631820643047,0.46402343749999997,0.7318232023109332,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task1_S_vs_G,combined_model,ABD+Proxy+Demo_select7,0.7371469213574477,0.5999903626645113,0.8402944566960704,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task2_G_vs_P,single_marker_prespecified,abd_mir155,0.8134221698836176,0.6923364401137808,0.9174451090023463,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task2_G_vs_P,demographic_only,AGE+SEX,0.9767350812242452,0.937007722007722,0.9988584838584839,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task2_G_vs_P,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,0.859907120743034,0.7427434666729562,0.9474537037037037,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task2_G_vs_P,combined_model,ABD+Proxy+Demo_select7,0.9984459984459984,0.990625,1.0,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task3_S_vs_P,single_marker_prespecified,abd_mir155,0.9736842105263159,0.9377503974562799,0.9937468249033945,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task3_S_vs_P,demographic_only,AGE+SEX,0.807692273210849,0.6867192221358888,0.8979583974511801,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task3_S_vs_P,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,1.0,0.9999999999999999,1.0,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.
+Task3_S_vs_P,combined_model,ABD+Proxy+Demo_select7,1.0,0.9999999999999999,1.0,500,Pre-specified family uncertainty from OOF predictions; no post-hoc winner selection.

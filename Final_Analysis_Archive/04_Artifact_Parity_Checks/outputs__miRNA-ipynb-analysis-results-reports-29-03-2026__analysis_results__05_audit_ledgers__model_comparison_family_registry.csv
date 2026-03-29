@@ -1,0 +1,3 @@
+Family_ID,Section,Family_Definition,Members,Primary_Metric,Correction_or_Ceiling
+M1,Section 13-16,Task-wise model-family discrimination comparisons,"single_marker, small_panel_exploratory, demographic_only, biomarker_plus_demographic, broader_global_only, combined_model within each fixed task",AUC from OOF predictions,Exploratory ceiling for cross-family superiority claims unless explicitly corrected
+M2,Section 17-18,Pre-specified family robustness summaries,"single_marker_prespecified, demographic_only, broader_global_only, combined_model by task",Bootstrap AUC CI and permutation p-values,"Family interpreted as uncertainty characterization, not confirmatory superiority testing"

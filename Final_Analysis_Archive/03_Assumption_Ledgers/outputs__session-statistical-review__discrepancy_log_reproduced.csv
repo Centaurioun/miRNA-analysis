@@ -1,0 +1,2 @@
+Issue_ID,Instruction or expectation,Observed reality,Resolution,Impact on interpretation
+D1,Spec names `global_mean_ct_all7` and `global_mean_ct_miRNA_only` are not literal CSV columns.,"CSV provides individual Ct columns plus `mean_GAPDH`, but no precomputed global columns.",Use explicit proxy derivations and map required_name -> implemented_column in provenance table.,Moderate; affects structural-control wording and must remain caveated.

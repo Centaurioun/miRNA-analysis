@@ -1,0 +1,6 @@
+Item,Available,Details
+Specification file,True,/Users/centaurioun/Repos/miRNA-analysis/miRNA-qPCR-reanalysis.md
+Primary CSV,True,/Users/centaurioun/Repos/miRNA-analysis/miRNA-qPCR-analysis-results.csv
+Rows in CSV,True,108
+Columns in CSV,True,15
+Expected groups present exactly,True,"['G', 'P', 'S']"

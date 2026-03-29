@@ -20,3 +20,7 @@ Workspace-critical rules:
 - Use leakage-safe logic for classification and feature selection
 - Label exploratory analyses clearly
 - If anything is ambiguous or impossible, document it explicitly in the notebook and use the most defensible interpretation
+
+# ToolUniverse
+
+For scientific research questions that need external evidence or database lookups across literature, genes, proteins, diseases, drugs, clinical trials, or related biomedical resources, use ToolUniverse when appropriate.

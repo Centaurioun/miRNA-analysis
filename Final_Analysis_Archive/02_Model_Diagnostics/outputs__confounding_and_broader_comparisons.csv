@@ -1,0 +1,13 @@
+AUC,Accuracy,Sensitivity,Specificity,PPV,NPV,TN,FP,FN,TP,Task,Model_Family,Model_Label,n,Model_Validity,Claim_Ceiling
+0.7322530864197531,0.6805555555555556,0.6666666666666666,0.6944444444444444,0.6857142857142857,0.6756756756756757,25,11,12,24,Task1_S_vs_G,combined_model,ABD+Proxy+Demo_select7,72,Tentative internal,Tentative
+0.7307098765432098,0.6944444444444444,0.6944444444444444,0.6944444444444444,0.6944444444444444,0.6944444444444444,25,11,11,25,Task1_S_vs_G,biomarker_plus_demographic,ABD+AGE+SEX_select5,72,Tentative internal,Tentative
+0.623070987654321,0.625,0.75,0.5,0.6,0.6666666666666666,18,18,9,27,Task1_S_vs_G,demographic_only,AGE+SEX,72,Tentative internal,Tentative
+0.5964506172839505,0.5833333333333334,0.19444444444444445,0.9722222222222222,0.875,0.546875,35,1,29,7,Task1_S_vs_G,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,72,Tentative internal,Tentative
+0.9976851851851851,0.9583333333333334,1.0,0.9166666666666666,0.9230769230769231,1.0,33,3,0,36,Task2_G_vs_P,combined_model,ABD+Proxy+Demo_select7,72,Tentative internal,Tentative
+0.9741512345679013,0.9305555555555556,0.9166666666666666,0.9444444444444444,0.9428571428571428,0.918918918918919,34,2,3,33,Task2_G_vs_P,demographic_only,AGE+SEX,72,Tentative internal,Tentative
+0.9660493827160495,0.9166666666666666,0.9444444444444444,0.8888888888888888,0.8947368421052632,0.9411764705882353,32,4,2,34,Task2_G_vs_P,biomarker_plus_demographic,ABD+AGE+SEX_select5,72,Tentative internal,Tentative
+0.8533950617283951,0.9166666666666666,1.0,0.8333333333333334,0.8571428571428571,1.0,30,6,0,36,Task2_G_vs_P,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,72,Tentative internal,Tentative
+1.0,1.0,1.0,1.0,1.0,1.0,36,0,0,36,Task3_S_vs_P,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,72,Tentative internal,Tentative
+1.0,0.9861111111111112,0.9722222222222222,1.0,1.0,0.972972972972973,36,0,1,35,Task3_S_vs_P,combined_model,ABD+Proxy+Demo_select7,72,Tentative internal,Tentative
+0.9938271604938271,0.9583333333333334,0.9166666666666666,1.0,1.0,0.9230769230769231,36,0,3,33,Task3_S_vs_P,biomarker_plus_demographic,ABD+AGE+SEX_select5,72,Tentative internal,Tentative
+0.80054012345679,0.6805555555555556,0.6111111111111112,0.75,0.7096774193548387,0.6585365853658537,27,9,14,22,Task3_S_vs_P,demographic_only,AGE+SEX,72,Tentative internal,Tentative

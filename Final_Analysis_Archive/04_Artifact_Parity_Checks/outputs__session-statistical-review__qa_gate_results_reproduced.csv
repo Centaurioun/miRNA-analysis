@@ -1,0 +1,6 @@
+QA_Gate,Pass
+GROUP coding exact match,True
+No missing GROUP,True
+No duplicate rows,True
+No missing required numeric values,True
+Fixed task map unchanged,True

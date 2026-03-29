@@ -1,0 +1,4 @@
+Task,Unique_Selected_Panels,Most_Frequent_Panel,Most_Frequent_Count,Most_Frequent_Proportion,Selection_Entropy_bits,Interpretation
+Task1_S_vs_G,4,abd_mir155+abd_mir146b,2,0.4,1.9219280948873623,Lower entropy and higher top proportion indicate more stable fold-level panel selection.
+Task2_G_vs_P,4,abd_mir203+abd_mir155,2,0.4,1.9219280948873623,Lower entropy and higher top proportion indicate more stable fold-level panel selection.
+Task3_S_vs_P,2,abd_mir203+abd_mir155,4,0.8,0.7219280948873623,Lower entropy and higher top proportion indicate more stable fold-level panel selection.

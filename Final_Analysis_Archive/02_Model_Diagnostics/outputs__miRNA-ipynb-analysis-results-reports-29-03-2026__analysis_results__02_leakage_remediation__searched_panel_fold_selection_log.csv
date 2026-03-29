@@ -1,0 +1,16 @@
+Fold,Selected_Panel,InnerCV_BestAUC,Candidate_Count,Task
+1,abd_mir155+abd_mir146b,0.7404336734693878,3,Task1_S_vs_G
+2,abd_mir146b+abd_mir155,0.7857142857142857,3,Task1_S_vs_G
+3,abd_mir381p+abd_mir146a,0.7602040816326531,3,Task1_S_vs_G
+4,abd_mir155+abd_mir146a,0.7761479591836734,3,Task1_S_vs_G
+5,abd_mir155+abd_mir146b,0.8182397959183674,3,Task1_S_vs_G
+1,abd_mir203+abd_mir155,0.8660714285714286,3,Task2_G_vs_P
+2,abd_mir203+abd_mir223,0.7991071428571429,3,Task2_G_vs_P
+3,abd_mir223+abd_mir155,0.8813775510204083,3,Task2_G_vs_P
+4,abd_mir381p+abd_mir223,0.8329081632653061,3,Task2_G_vs_P
+5,abd_mir203+abd_mir155,0.8660714285714286,3,Task2_G_vs_P
+1,abd_mir203+abd_mir155,1.0,3,Task3_S_vs_P
+2,abd_mir203+abd_mir155,1.0,3,Task3_S_vs_P
+3,abd_mir203+abd_mir155,1.0,3,Task3_S_vs_P
+4,abd_mir381p+abd_mir203,1.0,3,Task3_S_vs_P
+5,abd_mir203+abd_mir155,1.0,3,Task3_S_vs_P

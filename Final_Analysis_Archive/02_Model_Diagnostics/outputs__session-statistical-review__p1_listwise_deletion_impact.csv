@@ -1,0 +1,5 @@
+Analysis_family,Rows_total,Rows_complete_case,Dropped_rows,Complete_case_fraction,Listwise_deletion_impact,Handling_rule
+q02_gapdh_correlations,108,108,0,1.0,none,complete-case where modeled directly; in-fold preprocessing for nested CV models
+q03_models,108,108,0,1.0,none,complete-case where modeled directly; in-fold preprocessing for nested CV models
+q05_q06_models,108,108,0,1.0,none,complete-case where modeled directly; in-fold preprocessing for nested CV models
+q08_adjusted,108,108,0,1.0,none,complete-case where modeled directly; in-fold preprocessing for nested CV models

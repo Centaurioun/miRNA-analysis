@@ -1,0 +1,5 @@
+Assumption_ID,Assumption,Why needed,Evidence,Risk if wrong,Affected sections
+A1,Ct columns are numeric and lower Ct implies higher abundance.,Needed for transformation directionality.,qPCR Ct convention + column names `mean_*`.,"If reversed, biological interpretation flips.","Transformations, interpretation"
+A2,`mean_GAPDH` is reference Ct usable for ΔCt.,Needed for normalization strategy.,Column present in CSV.,Normalization may be unstable if reference unsuitable.,"Transformation, sensitivity analyses"
+A3,`global_mean_ct_all7` and `global_mean_ct_miRNA_only` are not present; proxy summaries are computed and labeled.,Specification asks explicit broader/global checks.,Columns absent in CSV.,Proxy may not fully match intended variables.,Broader/global structure section
+A4,Binary modeling uses logistic regression with nested CV and default 0.5 threshold for primary estimates.,Needed for leakage-safe consistent discrimination checks.,Transparent implementation in notebook cells.,Threshold-dependent metrics could differ under clinical calibration.,Modeling and performance interpretation

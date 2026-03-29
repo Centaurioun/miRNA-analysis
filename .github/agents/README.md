@@ -32,8 +32,8 @@ Useful prompt patterns:
 
 ## Operational notes
 
-- Worker agents are configured as `user-invocable: false` to bias toward coordinated use.
-- Worker agents are configured with `disable-model-invocation: true`; the coordinator can still call them via explicit `agents` allow-list.
+- Worker agents are configured as `user-invocable: true` so they are selectable directly in the agent picker.
+- Worker agents are configured with `disable-model-invocation: false` so the coordinator can invoke them via explicit `agents` allow-list.
 - Coordinator explicitly allow-lists worker agents via frontmatter `agents`.
 - If a required input is missing, require explicit Assumption Ledger and Discrepancy Log entries.
 - Keep fixed groups/tasks unchanged across all outputs.

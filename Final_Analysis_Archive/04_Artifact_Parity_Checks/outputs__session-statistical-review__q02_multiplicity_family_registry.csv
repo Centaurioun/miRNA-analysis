@@ -1,0 +1,2 @@
+Family_ID,Section,Family_Definition,Members,Primary_Test,Correction
+Q02-F1,q02,GAPDH vs AGE/clinical correlational family,AGE + five clinical covariates,Spearman correlation,BH-FDR across q02 family

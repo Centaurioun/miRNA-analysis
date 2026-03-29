@@ -1,0 +1,9 @@
+Required_Name,Implemented_Column,Formula,Rationale
+global_mean_ct_all7,global_mean_ct_all7_proxy,"mean(['mean_mir146a', 'mean_mir146b', 'mean_mir155', 'mean_mir203', 'mean_mir223', 'mean_mir381p', 'mean_GAPDH'])",spec-required name absent in raw CSV; explicit proxy used
+global_mean_ct_miRNA_only,global_mean_ct_miRNA_only_proxy,"mean(['mean_mir146a', 'mean_mir146b', 'mean_mir155', 'mean_mir203', 'mean_mir223', 'mean_mir381p'])",spec-required name absent in raw CSV; explicit proxy used
+dCt_mir146a,dct_mir146a,mean_mir146a - mean_GAPDH,normalized delta Ct
+dCt_mir146b,dct_mir146b,mean_mir146b - mean_GAPDH,normalized delta Ct
+dCt_mir155,dct_mir155,mean_mir155 - mean_GAPDH,normalized delta Ct
+dCt_mir203,dct_mir203,mean_mir203 - mean_GAPDH,normalized delta Ct
+dCt_mir223,dct_mir223,mean_mir223 - mean_GAPDH,normalized delta Ct
+dCt_mir381p,dct_mir381p,mean_mir381p - mean_GAPDH,normalized delta Ct

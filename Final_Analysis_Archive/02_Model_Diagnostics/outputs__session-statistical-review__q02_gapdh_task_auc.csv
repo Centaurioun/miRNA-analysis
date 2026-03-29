@@ -1,0 +1,4 @@
+task,group_a,group_b,gapdh_auc,gapdh_mean_diff_group_b_minus_group_a
+Task1_S_vs_G,S,G,0.545138888888889,-0.587037037777776
+Task2_G_vs_P,G,P,0.9224537037037037,-4.517314813888902
+Task3_S_vs_P,S,P,1.0,-5.104351851666678

@@ -1,0 +1,2 @@
+task,model,observed_auc,perm_mean_auc,perm_sd_auc,perm_p_value,n_permutations
+Task3_S_vs_P,combined_control,1.0,0.45243827160493827,0.09342232587125493,0.004975124378109453,200

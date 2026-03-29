@@ -1,0 +1,4 @@
+Family_ID,Section,Family_Definition,Correction
+Q03-F1,q03,Task-wise normalized incremental comparisons,Not inferentially corrected here; descriptive bootstrap uncertainty only
+Q05-F1,q05,Task-wise raw-feature incremental comparisons,Not inferentially corrected here; descriptive bootstrap uncertainty only
+Q06-F1,q06,Task-wise control-ablation comparisons,Not inferentially corrected here; descriptive bootstrap uncertainty only

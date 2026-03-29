@@ -1,0 +1,17 @@
+Directive,Section,Status
+Opening overview + fixed definitions,Section 1,Completed
+Environment setup + package handling,Section 2,Completed
+File checks + specification ingestion,Section 3-4,Completed
+Input registry + assumptions + discrepancy log,Section 5,Completed
+Data loading/validation + transformation registry,Section 6-8,Completed
+Baseline and miRNA group comparisons,Section 9-10,Completed
+Reference-gene audit,Section 11,Completed
+Clinical correlations,Section 12,Completed
+Fixed pairwise leakage-safe classification,Section 13,Completed
+Single-marker vs panel comparison,Section 14,Completed (searched panels remain exploratory)
+Confounding/covariate adjustment,Section 15,Completed
+Broader/global Ct structure analysis,Section 16,Completed (proxy variables used)
+Robustness and sensitivity analyses,Section 17,Completed (pre-specified family bootstrap + all-task permutation + threshold sensitivity)
+Additional justified analyses,Section 18,Completed (exploratory PCA + OOF calibration diagnostics)
+Checkpoint after each major block,Multiple,Completed
+Final synthesis + confidence/caution split,Section 20,Completed

@@ -1,0 +1,7 @@
+Input_ID,Path,Exists,Required
+data,miRNA-qPCR-analysis-results.csv,True,True
+spec,miRNA-qPCR-reanalysis.md,True,True
+taskwise_inferential_tests_previous,outputs/taskwise_inferential_tests.csv,True,False
+gapdh_audit_tests_previous,outputs/gapdh_audit_tests.csv,True,False
+clinical_correlations_previous,outputs/clinical_correlations_age_adjusted.csv,True,False
+task_model_performance_previous,outputs/task_model_performance_nestedcv.csv,True,False

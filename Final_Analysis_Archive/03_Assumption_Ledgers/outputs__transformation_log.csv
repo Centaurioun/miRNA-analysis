@@ -1,0 +1,15 @@
+Derived_Variable,Formula,Rationale
+dct_mir146a,mean_mir146a - mean_GAPDH,Lower ΔCt indicates higher relative abundance
+dct_mir146b,mean_mir146b - mean_GAPDH,Lower ΔCt indicates higher relative abundance
+dct_mir155,mean_mir155 - mean_GAPDH,Lower ΔCt indicates higher relative abundance
+dct_mir203,mean_mir203 - mean_GAPDH,Lower ΔCt indicates higher relative abundance
+dct_mir223,mean_mir223 - mean_GAPDH,Lower ΔCt indicates higher relative abundance
+dct_mir381p,mean_mir381p - mean_GAPDH,Lower ΔCt indicates higher relative abundance
+abd_mir146a,-1 * dct_mir146a,Higher value indicates higher relative abundance proxy
+abd_mir146b,-1 * dct_mir146b,Higher value indicates higher relative abundance proxy
+abd_mir155,-1 * dct_mir155,Higher value indicates higher relative abundance proxy
+abd_mir203,-1 * dct_mir203,Higher value indicates higher relative abundance proxy
+abd_mir223,-1 * dct_mir223,Higher value indicates higher relative abundance proxy
+abd_mir381p,-1 * dct_mir381p,Higher value indicates higher relative abundance proxy
+global_mean_ct_all7_proxy,"mean(['mean_mir146a', 'mean_mir146b', 'mean_mir155', 'mean_mir203', 'mean_mir223', 'mean_mir381p', 'mean_GAPDH'])",Proxy for unavailable requested variable
+global_mean_ct_miRNA_only_proxy,"mean(['mean_mir146a', 'mean_mir146b', 'mean_mir155', 'mean_mir203', 'mean_mir223', 'mean_mir381p'])",Proxy for unavailable requested variable

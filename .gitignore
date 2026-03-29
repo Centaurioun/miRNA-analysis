@@ -23,7 +23,24 @@ outputs/*
 *.log
 
 # VS Code
+# Keep editor settings and extensions, but ignore the task definition.
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
-!.vscode/tasks.json
+.vscode/tasks.json
+
+# Project archives and scratch areas
+Legacy_Results_Archive/
+
+# Copied skill/documentation trees to keep local only
+agents-skills-plugins-docs/
+agents-skills-plugins-recovery/
+agents-skills-plugins-plan/
+OpenClaw-Medical-Skills/
+
+# Temporary or optional local material
+statistics-questions/
+tmp/
+.remember/
+.uv-cache/
+.agents/

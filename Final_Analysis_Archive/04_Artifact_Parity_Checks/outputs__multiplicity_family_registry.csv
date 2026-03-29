@@ -1,0 +1,4 @@
+Family_ID,Section,Family_Definition,Members,Primary_Test,Sensitivity_Test,Correction
+F1,Section 9-10,Task-wise univariate contrasts across markers/derived variables,All tested variables within each fixed task separately,Mann-Whitney U,Welch t-test,BH-FDR applied within each task family
+F2,Section 12,Spearman marker-clinical correlation matrix,All marker x clinical pairs,Spearman rho,None,BH-FDR across full matrix
+F3,Section 12,Age-adjusted linear marker-clinical associations,All marker x clinical adjusted models,OLS coefficient test (clinical term),Residual/heteroskedasticity/influence diagnostics,BH-FDR across adjusted family

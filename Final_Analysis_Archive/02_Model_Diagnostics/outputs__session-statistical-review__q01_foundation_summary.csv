@@ -1,0 +1,9 @@
+Metric,Value
+rows,108
+balanced_group_counts,"{'G': np.int64(36), 'P': np.int64(36), 'S': np.int64(36)}"
+taskwise_test_rows,18
+task3_permutation_count,200
+task3_permutation_pvalue,0.004975124378109453
+age_group_model_pvalue,1.1416253291559658e-12
+age_resid_shapiro_pval,4.6336609062708245e-10
+age_group_levene_pval,0.00823293886577222

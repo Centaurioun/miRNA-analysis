@@ -1,0 +1,13 @@
+Task,Model_Family,Model_Label,AUC_oof,Brier_oof,ECE10_oof,Calibration_note
+Task1_S_vs_G,small_panel_exploratory,searched_top3_pairs_fold_contained,0.7029320987654321,0.21599413569135084,0.05554859965848008,Descriptive OOF calibration; not used for selection/tuning.
+Task1_S_vs_G,demographic_only,AGE+SEX,0.623070987654321,0.23294330230518298,0.10339413937336607,Descriptive OOF calibration; not used for selection/tuning.
+Task1_S_vs_G,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,0.5964506172839505,0.22998782140489304,0.031055549909977928,Descriptive OOF calibration; not used for selection/tuning.
+Task1_S_vs_G,combined_model,ABD+Proxy+Demo_select7,0.7322530864197531,0.20436124786195098,0.07381107376997288,Descriptive OOF calibration; not used for selection/tuning.
+Task2_G_vs_P,small_panel_exploratory,searched_top3_pairs_fold_contained,0.7924382716049383,0.18226819176981324,0.23801252858201633,Descriptive OOF calibration; not used for selection/tuning.
+Task2_G_vs_P,demographic_only,AGE+SEX,0.9741512345679013,0.08793632603148728,0.1469625696424385,Descriptive OOF calibration; not used for selection/tuning.
+Task2_G_vs_P,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,0.8533950617283951,0.09738543831683971,0.18667424677569533,Descriptive OOF calibration; not used for selection/tuning.
+Task2_G_vs_P,combined_model,ABD+Proxy+Demo_select7,0.9976851851851851,0.030759588987739672,0.05435795768262435,Descriptive OOF calibration; not used for selection/tuning.
+Task3_S_vs_P,small_panel_exploratory,searched_top3_pairs_fold_contained,0.9699074074074074,0.07635752805086968,0.17106596452325867,Descriptive OOF calibration; not used for selection/tuning.
+Task3_S_vs_P,demographic_only,AGE+SEX,0.80054012345679,0.20782634837108033,0.1958651198110174,Descriptive OOF calibration; not used for selection/tuning.
+Task3_S_vs_P,broader_global_only,global_mean_ct_all7_proxy+global_mean_ct_miRNA_only_proxy,1.0,0.023798117517555912,0.15272994762978773,Descriptive OOF calibration; not used for selection/tuning.
+Task3_S_vs_P,combined_model,ABD+Proxy+Demo_select7,1.0,0.016618458745523555,0.10326243740482291,Descriptive OOF calibration; not used for selection/tuning.

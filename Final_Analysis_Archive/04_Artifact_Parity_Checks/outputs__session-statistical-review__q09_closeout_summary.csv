@@ -1,0 +1,11 @@
+Question,Answer
+Does this confirm the notebook result?,"yes, with caveated wording"
+Final decision,ready
+Single highest-priority remaining analysis,None — all previously pending P0 rerun checks are completed in this notebook.
+q08 remains_convincing count,0
+q07 AGE most_harmful_fraction,0.96
+q03 Task2 delta_median,-0.0578414351851852
+q03 Task3 delta_median,0.0
+q05 Task2 delta_median,0.0007770007770007137
+q05 Task3 delta_median,0.0
+Missingness/attrition gate pass,True

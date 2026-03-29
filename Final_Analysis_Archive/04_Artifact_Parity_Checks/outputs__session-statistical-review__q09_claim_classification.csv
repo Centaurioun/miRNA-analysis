@@ -1,0 +1,12 @@
+Category,Claim,Disposition
+confirmed,Univariate inferential framework,Notebook-native taskwise Mann-Whitney + within-task FDR completed from raw CSV for fixed tasks.
+confirmed,Leakage-safe classification setup,Nested CV with in-fold tuning and OOF predictions used for q03/q05/q06 summaries.
+confirmed,GAPDH instability,Reference-gene instability remains material under q02 stress testing.
+confirmed but cautious,Task1_S_vs_G,Signal is exploratory and should remain cautiously worded.
+confirmed but cautious,Task2_G_vs_P,Strong within-dataset separation persists; q03/q05 indicate limited incremental biomarker value over structure controls.
+confirmed but cautious,Task3_S_vs_P,"Very strong separation remains, with structure-related controls sufficient for high internal discrimination."
+requires wording revision,Normalization-dependent biomarker attribution,dCt/abd markers remain reference-sensitive and should not be framed as reference-secure proof.
+requires wording revision,Clinical-correlation robustness framing,q08 stronger-adjusted reassessment completed; robust independent marker-specific claims should be removed.
+optional sensitivity,Task3 permutation robustness,Permutation check is now reproduced in q01; further permutations are optional only.
+should be removed,Incremental normalized biomarker value claim,q03 delta medians do not support meaningful incremental gain over structure-only controls.
+should be removed,Robust independent clinical-correlation claim,q08 classifications are predominantly group/structure-driven under stronger adjustment.

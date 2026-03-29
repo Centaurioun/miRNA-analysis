@@ -1,0 +1,772 @@
+[
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/07-deferred-v2-issues-closure-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/07-deferred-v2-issues-closure-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Analysi-Review-Report-miRNA_qpcr-28-03-2026.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/Analysi-Review-Report-miRNA_qpcr-28-03-2026.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/jupyter_run.log",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/jupyter_run.log",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/miRNA_qpcr_reanalysis_report.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/miRNA_qpcr_reanalysis_report.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/assumption_ledger.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__assumption_ledger.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/bootstrap_auc_best_single_markers.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__bootstrap_auc_best_single_markers.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/bootstrap_auc_prespecified_families.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__bootstrap_auc_prespecified_families.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/calibration_oof_diagnostics.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__calibration_oof_diagnostics.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/clinical_adjusted_ols_diagnostics.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__clinical_adjusted_ols_diagnostics.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/clinical_correlations_age_adjusted.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__clinical_correlations_age_adjusted.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/clinical_correlations_spearman.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__clinical_correlations_spearman.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/completion_map.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__completion_map.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/confounding_and_broader_comparisons.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__confounding_and_broader_comparisons.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/discrepancy_log.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__discrepancy_log.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/exploratory_pca_variance.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__exploratory_pca_variance.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/gapdh_assumption_evidence.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__gapdh_assumption_evidence.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/gapdh_audit_tests.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__gapdh_audit_tests.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/gapdh_covariate_associations.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__gapdh_covariate_associations.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/gapdh_group_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__gapdh_group_summary.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/input_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__input_registry.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/gapdh_assumption_evidence.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__gapdh_assumption_evidence.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/gapdh_audit_tests.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__gapdh_audit_tests.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/gapdh_covariate_associations.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__gapdh_covariate_associations.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/gapdh_group_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__gapdh_group_summary.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/input_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__input_registry.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/missingness_listwise_impact.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__missingness_listwise_impact.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/01_data_qa_and_provenance/transformation_log.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__01_data_qa_and_provenance__transformation_log.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/02_leakage_remediation/calibration_oof_diagnostics.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__02_leakage_remediation__calibration_oof_diagnostics.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/02_leakage_remediation/searched_panel_fold_selection_log.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__02_leakage_remediation__searched_panel_fold_selection_log.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/02_leakage_remediation/searched_panel_selection_stability.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__02_leakage_remediation__searched_panel_selection_stability.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/02_leakage_remediation/single_vs_panel_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__02_leakage_remediation__single_vs_panel_summary.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/02_leakage_remediation/task_model_performance_nestedcv.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__02_leakage_remediation__task_model_performance_nestedcv.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/02_leakage_remediation/threshold_sensitivity_oof.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__02_leakage_remediation__threshold_sensitivity_oof.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/bootstrap_auc_best_single_markers.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__bootstrap_auc_best_single_markers.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/bootstrap_auc_prespecified_families.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__bootstrap_auc_prespecified_families.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/multiplicity_family_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__multiplicity_family_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/permutation_check_combined_all_tasks.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__permutation_check_combined_all_tasks.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/permutation_check_task3_combined.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__permutation_check_task3_combined.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/taskwise_assumption_effects_ci.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__taskwise_assumption_effects_ci.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/03_statistical_hardening/taskwise_inferential_tests.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__03_statistical_hardening__taskwise_inferential_tests.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/04_clinical_and_eda/clinical_adjusted_ols_diagnostics.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__04_clinical_and_eda__clinical_adjusted_ols_diagnostics.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/04_clinical_and_eda/clinical_correlations_age_adjusted.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__04_clinical_and_eda__clinical_correlations_age_adjusted.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/04_clinical_and_eda/clinical_correlations_spearman.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__04_clinical_and_eda__clinical_correlations_spearman.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/04_clinical_and_eda/confounding_and_broader_comparisons.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__04_clinical_and_eda__confounding_and_broader_comparisons.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/04_clinical_and_eda/exploratory_pca_variance.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__04_clinical_and_eda__exploratory_pca_variance.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/04_clinical_and_eda/summary_by_group.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__04_clinical_and_eda__summary_by_group.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/05_audit_ledgers/assumption_ledger.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__05_audit_ledgers__assumption_ledger.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/05_audit_ledgers/completion_map.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__05_audit_ledgers__completion_map.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/05_audit_ledgers/discrepancy_log.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__05_audit_ledgers__discrepancy_log.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/05_audit_ledgers/model_comparison_family_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__05_audit_ledgers__model_comparison_family_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/05_audit_ledgers/p2_reproducibility_artifact_check.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__05_audit_ledgers__p2_reproducibility_artifact_check.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/analysis_results/05_audit_ledgers/results_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__analysis_results__05_audit_ledgers__results_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/comprehensive-technical-audit-report-miRNA_qpcr_reanalysis.ipynb.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__comprehensive-technical-audit-report-miRNA_qpcr_reanalysis.ipynb.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/data_and_inputs/miRNA-qPCR-analysis-results.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__data_and_inputs__miRNA-qPCR-analysis-results.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/miRNA-ipynb-analysis-results-reports-29-03-2026/data_and_inputs/miRNA-qPCR-reanalysis.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__miRNA-ipynb-analysis-results-reports-29-03-2026__data_and_inputs__miRNA-qPCR-reanalysis.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/missingness_listwise_impact.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__missingness_listwise_impact.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/model_comparison_family_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__model_comparison_family_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/multiplicity_family_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__multiplicity_family_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/p2_reproducibility_artifact_check.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__p2_reproducibility_artifact_check.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/permutation_check_combined_all_tasks.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__permutation_check_combined_all_tasks.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/permutation_check_task3_combined.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__permutation_check_task3_combined.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/results_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__results_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/01-06-results-all-chat-logs.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/outputs__review-recovery-2026-03-28__01-06-results-all-chat-logs.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/01-notebook2-p0-qa-unblock-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__01-notebook2-p0-qa-unblock-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/01-notebook2-v2-p0-qa-unblock-postrerun-closure-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__01-notebook2-v2-p0-qa-unblock-postrerun-closure-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/02-notebook1-p0-leakage-remediation-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__02-notebook1-p0-leakage-remediation-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/03-claims-language-downgrade-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__03-claims-language-downgrade-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/03-claims-v2-language-downgrade-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__03-claims-v2-language-downgrade-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/04-statistical-hardening-p1-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__04-statistical-hardening-p1-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/04-statistical-hardening-v2-p1-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__04-statistical-hardening-v2-p1-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/05-reproducibility-polish-p2-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__05-reproducibility-polish-p2-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/05-reproducibility-v2-polish-p2-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__05-reproducibility-v2-polish-p2-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/06-full-reaudit-strict-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__06-full-reaudit-strict-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/06-full-reaudit-v2-strict-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__06-full-reaudit-v2-strict-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/07-deferred-issues-closure-results-chat-logs.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/outputs__review-recovery-2026-03-28__07-deferred-issues-closure-results-chat-logs.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/07-deferred-issues-closure-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__07-deferred-issues-closure-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/08-executive-summary-for-reviewers.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__08-executive-summary-for-reviewers.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28/08-fresh-kernel-regeneration-and-closure-confirmation-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28__08-fresh-kernel-regeneration-and-closure-confirmation-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/01-06-results-all-chat-logs.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/outputs__review-recovery-2026-03-28-backup__01-06-results-all-chat-logs.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/01-notebook2-p0-qa-unblock-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__01-notebook2-p0-qa-unblock-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/02-notebook1-p0-leakage-remediation-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__02-notebook1-p0-leakage-remediation-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/03-claims-language-downgrade-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__03-claims-language-downgrade-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/04-statistical-hardening-p1-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__04-statistical-hardening-p1-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/05-reproducibility-polish-p2-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__05-reproducibility-polish-p2-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/06-full-reaudit-strict-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__06-full-reaudit-strict-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/07-deferred-issues-closure-results-chat-logs.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/outputs__review-recovery-2026-03-28-backup__07-deferred-issues-closure-results-chat-logs.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/review-recovery-2026-03-28-backup/07-deferred-issues-closure-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/outputs__review-recovery-2026-03-28-backup__07-deferred-issues-closure-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/searched_panel_fold_selection_log.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__searched_panel_fold_selection_log.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/searched_panel_selection_stability.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__searched_panel_selection_stability.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/assumption_ledger_reproduced.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__session-statistical-review__assumption_ledger_reproduced.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/discrepancy_log_reproduced.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__session-statistical-review__discrepancy_log_reproduced.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/input_registry_reproduced.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__session-statistical-review__input_registry_reproduced.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/p1_listwise_deletion_impact.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__p1_listwise_deletion_impact.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/p2_tolerance_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__p2_tolerance_summary.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/provenance_map_reproduced.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__session-statistical-review__provenance_map_reproduced.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q01_foundation_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q01_foundation_summary.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q01_task3_permutation_recomputed.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q01_task3_permutation_recomputed.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q01_taskwise_inferential_tests_recomputed.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q01_taskwise_inferential_tests_recomputed.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q02_gapdh_correlations.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q02_gapdh_correlations.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q02_gapdh_correlations_fdr_ci.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q02_gapdh_correlations_fdr_ci.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q02_gapdh_diagnostics.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q02_gapdh_diagnostics.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q02_gapdh_model_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q02_gapdh_model_summary.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q02_gapdh_task_auc.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q02_gapdh_task_auc.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q02_multiplicity_family_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__q02_multiplicity_family_registry.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q03_normalized_increment_bootstrap.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q03_normalized_increment_bootstrap.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q03_normalized_increment_bootstrap_hardened.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q03_normalized_increment_bootstrap_hardened.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q03_normalized_increment_performance.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q03_normalized_increment_performance.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q03_q05_q06_multiplicity_registry.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q03_q05_q06_multiplicity_registry.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q05_raw_increment_bootstrap.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q05_raw_increment_bootstrap.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q05_raw_increment_bootstrap_hardened.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q05_raw_increment_bootstrap_hardened.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q05_raw_increment_performance.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q05_raw_increment_performance.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q06_control_ablation_bootstrap.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q06_control_ablation_bootstrap.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q06_control_ablation_bootstrap_hardened.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q06_control_ablation_bootstrap_hardened.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q06_control_ablation_performance.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q06_control_ablation_performance.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q07_task2_ablation_stability.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q07_task2_ablation_stability.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q07_task2_coefficient_stability.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q07_task2_coefficient_stability.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q07_task2_control_correlations.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q07_task2_control_correlations.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q07_task2_vif.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q07_task2_vif.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q08_adjusted_models_diagnostics_ci.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q08_adjusted_models_diagnostics_ci.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q08_clinical_correlation_reassessment.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q08_clinical_correlation_reassessment.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q08_clinical_group_r2.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__session-statistical-review__q08_clinical_group_r2.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q09_claim_classification.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__q09_claim_classification.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q09_closeout_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__q09_closeout_summary.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q09_pending_checks.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__q09_pending_checks.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/q09_revision_checklist.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__q09_revision_checklist.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/qa_gate_results_reproduced.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__qa_gate_results_reproduced.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/session-statistical-review/transformation_registry_reproduced.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/04_Artifact_Parity_Checks/outputs__session-statistical-review__transformation_registry_reproduced.csv",
+    "category": "04_Artifact_Parity_Checks"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/single_vs_panel_summary.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__single_vs_panel_summary.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/summary_by_group.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__summary_by_group.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/task_model_performance_nestedcv.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__task_model_performance_nestedcv.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/taskwise_assumption_effects_ci.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__taskwise_assumption_effects_ci.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/taskwise_inferential_tests.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__taskwise_inferential_tests.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/threshold_sensitivity_oof.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/02_Model_Diagnostics/outputs__threshold_sensitivity_oof.csv",
+    "category": "02_Model_Diagnostics"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/outputs/transformation_log.csv",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/03_Assumption_Ledgers/outputs__transformation_log.csv",
+    "category": "03_Assumption_Ledgers"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompt-for-multi-agent-review-of-miRNA.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompt-for-multi-agent-review-of-miRNA.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/01-notebook2-p0-qa-unblock.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__01-notebook2-p0-qa-unblock.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/02-notebook1-p0-leakage-remediation.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__02-notebook1-p0-leakage-remediation.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/03-claims-language-downgrade.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__03-claims-language-downgrade.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/04-statistical-hardening-p1.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__04-statistical-hardening-p1.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/05-reproducibility-polish-p2.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__05-reproducibility-polish-p2.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/06-full-reaudit-strict.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__06-full-reaudit-strict.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/07-deferred-issues-closure.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__07-deferred-issues-closure.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/08-fresh-kernel-regeneration-and-closure-confirmation.prompt.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__08-fresh-kernel-regeneration-and-closure-confirmation.prompt.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/prompts/review-recovery-2026-03-28/README.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/prompts__review-recovery-2026-03-28__README.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/01-06-results-all-chat-logs.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/review-recovery-2026-03-28__01-06-results-all-chat-logs.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/01-notebook2-p0-qa-unblock-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__01-notebook2-p0-qa-unblock-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/02-notebook1-p0-leakage-remediation-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__02-notebook1-p0-leakage-remediation-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/03-claims-language-downgrade-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__03-claims-language-downgrade-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/04-statistical-hardening-p1-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__04-statistical-hardening-p1-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/05-reproducibility-polish-p2-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__05-reproducibility-polish-p2-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/06-full-reaudit-strict-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__06-full-reaudit-strict-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/07-deferred-issues-closure-results-chat-logs.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/05_Execution_Logs_and_Prompts/review-recovery-2026-03-28__07-deferred-issues-closure-results-chat-logs.md",
+    "category": "05_Execution_Logs_and_Prompts"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/review-recovery-2026-03-28/07-deferred-issues-closure-results.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/review-recovery-2026-03-28__07-deferred-issues-closure-results.md",
+    "category": "01_Methodological_Reports"
+  },
+  {
+    "old_file_path": "/Users/centaurioun/Repos/miRNA-analysis/session_statistical_review_reproduction_2026-03-28.md",
+    "new_file_path": "/Users/centaurioun/Repos/miRNA-analysis/Final_Analysis_Archive/01_Methodological_Reports/session_statistical_review_reproduction_2026-03-28.md",
+    "category": "01_Methodological_Reports"
+  }
+]

@@ -1,0 +1,6 @@
+Notebook_Section,Action,Reason,Evidence_Anchors
+Section q02,Strengthen reference-gene conclusion,State explicitly that mean_GAPDH is not a neutral denominator in this dataset.,"q02 outputs: gapdh_group_summary, gapdh_corr_df, q02_summary"
+Section q03,Downgrade normalized incremental framing,Report that biomarker_plus_structure did not materially improve over structure_only for Task2/Task3.,q03_perf + q03_boot tables
+Section q05/q06/q07,Revise Task2 mechanism wording,Keep Task2 as strong within-dataset discrimination with age + redundant structure controls; avoid biomarker-specific framing.,q05_boot + q06_boot + q07_summary
+Section q08,Rewrite clinical-correlation interpretation,Use stronger-adjusted q08 classifications and remove robust independent claims.,q08_results + clinical_group_r2
+Sections 19-20,Rewrite final synthesis,Separate robust discrimination from fragile attribution and preserve caveats tied to proxy structure controls.,claim_classification + closeout_summary + discrepancy_log_reproduced

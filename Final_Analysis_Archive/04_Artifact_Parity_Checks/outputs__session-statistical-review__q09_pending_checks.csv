@@ -1,0 +1,7 @@
+Pending_Check,Completed,Evidence_Object
+Notebook-native taskwise inferential recomputation,True,q01_taskwise_inferential_tests_recomputed
+Strict S/G/P coding + fixed-task assertions,True,qa_gate_results_reproduced
+Provenance map and discrepancy log updated,True,provenance_map_reproduced + discrepancy_log_reproduced
+Stronger-adjusted clinical reassessment completed,True,q08_clinical_correlation_reassessment
+Missingness/attrition gate passed for core families,True,p1_listwise_deletion_impact.csv
+Closeout no longer depends on upstream exported artifacts,True,input_registry_reproduced (Required=False for references)

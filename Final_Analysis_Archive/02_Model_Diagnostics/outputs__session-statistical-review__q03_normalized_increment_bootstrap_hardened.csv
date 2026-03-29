@@ -1,0 +1,3 @@
+delta_median,delta_mean,ci_low,ci_high,n_boot_valid,task,comparison,family,ci_crosses_zero,evidence_tier,note
+-0.0578414351851852,-0.060056117231307354,-0.12422073914895765,-0.01015389173761609,2000,Task2_G_vs_P,biomarker_plus_structure - structure_only,Q03_incremental_normalized,False,descriptive_directional,Bootstrap deltas are descriptive uncertainty summaries; not standalone superiority inference tests.
+0.0,6.106226635438361e-19,-1.1102230246251565e-16,1.1102230246251565e-16,2000,Task3_S_vs_P,biomarker_plus_structure - structure_only,Q03_incremental_normalized,True,descriptive_uncertain,Bootstrap deltas are descriptive uncertainty summaries; not standalone superiority inference tests.
